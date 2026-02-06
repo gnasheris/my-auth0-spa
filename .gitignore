@@ -1,5 +1,10 @@
-.vercel
-.env*.local
+node_modules/
+.env
 .venv/
+venv/
 __pycache__/
 *.pyc
+.vercel
+.env*.local
+node_modules
+225310c (ignore venv and python cache files)
